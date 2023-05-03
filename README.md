@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Steven Elijah</h1>
+<h1 align="center">Hi 👋, I'm Esteban Portillo</h1>
 <h3 align="center">A passionate React Frontend Developer from El Salvador</h3>
 
 - 🔭 I’m currently working on my **Portfolio**
